@@ -251,4 +251,4 @@ do wordpress database settings locally
 
 install wordpress
 connect to wordpress by localhost
-enter the database name, user name, password and host name
+enter the database name, user name, password and host namee
